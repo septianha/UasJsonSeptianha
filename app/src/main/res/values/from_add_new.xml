@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tv_nama">Name:</string>
+    <string name="tv_harga">Email:</string>
+    <string name="hint_nama">Address</string>
+    <string name="hint_harga">Gender</string>
+</resources>
